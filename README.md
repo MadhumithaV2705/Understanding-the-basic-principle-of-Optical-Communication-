@@ -3,7 +3,6 @@
 Measurement of Numerical aperture of the fiber
  ---
 ## Apparatus required:
--
 Numerical Aperture measurement Jig
 ---
 ## Procedure:
